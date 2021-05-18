@@ -1,4 +1,4 @@
-//Apple to Apples card set (Family Friendly)
+//Apples to Apples card set (Family Friendly)
 //Credit: http://www.com-www.com/applestoapples/applestoapples-partyset-green-2004.html
 
 const promptApples = [
@@ -254,7 +254,7 @@ const promptApples = [
 ]
 
 //credit: http://www.com-www.com/applestoapples/applestoapples-partyset-red-2004.html
-const responseApple = [
+const responseApples = [
  "A Bad Haircut",
  "A Bull Fight",
  "A Car Crash",
