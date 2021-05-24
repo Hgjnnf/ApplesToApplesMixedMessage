@@ -1,13 +1,9 @@
 UX Flow:
--> Select 1 or 2: 1 = Cards Against Humanity, 2 = Apples to Apples (Family-Friendly)
+-> Welcome to Apples to Apples Mixed Message Generator.
 -> Auto generate a random output
--> Press 1 to continue, press 2 to exit
+-> Press 1 to continue, press any other keys to exit
 
 Output:
 ----
 AtA:
 - Type 1: question (who, what, when, where) + prompt + response
-CAH:
-- Type 2: prompt + 1 response
-- Type 3: prompt + 2 responses
-- Type 4: prompt + 3 responses 
